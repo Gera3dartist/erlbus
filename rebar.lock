@@ -1,0 +1,8 @@
+{"1.2.0",
+[{<<"shards">>,{pkg,<<"shards">>,<<"1.0.1">>},0}]}.
+[
+{pkg_hash,[
+ {<<"shards">>, <<"1BDBBF047DB27F3C3EB800A829D4A47062C84D5543CBFEBCFC4C14D038BF9220">>}]},
+{pkg_hash_ext,[
+ {<<"shards">>, <<"2C57788AFBF053C4024366772892BEEE89B8B72E884E764FB0A075DFA7442041">>}]}
+].
